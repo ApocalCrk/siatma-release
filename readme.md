@@ -22,3 +22,7 @@ Semua data yang dikirim ke server SIATMA, SIKMA, KRS, dan Bimbingan Akademik UAJ
   4. Masukkan NPM dan Password
   5. Login
   6. Enjoy!
+
+## Minimum Requirements
+Android(N Stable) SDK 19 (Kitkat)
+Supported IOS(Stable) but can't share on github
