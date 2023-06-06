@@ -11,8 +11,9 @@ Semua data yang dikirim ke server SIATMA, SIKMA, KRS, dan Bimbingan Akademik UAJ
   * Login
   * Absensi
   * Jadwal
-  * Nilai (Coming soon)
-  * Informasi (Still suck information)
+  * Nilai (already release but n for beta)
+  * Informasi (n important information)
+  * Notification (coming soon)
 
 ## Cara Penggunaan
 
