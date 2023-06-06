@@ -1,0 +1,59 @@
+name: siatma
+description: SIATMA UAJY merupakan aplikasi yang digunakan untuk memudahkan mahasiswa dalam melihat jadwal perkuliahan, nilai, dan informasi lainnya. Aplikasi ini juga dapat digunakan untuk melakukan absensi secara online. Dalam pembuatannya, aplikasi ini menggunakan bahasa pemrograman Dart dengan framework Flutter serta menggunakan API dari website SIATMA UAJY, SIKMA, KRS, dan juga Bimbingan Akademik UAJY. (Aplikasi yang dibangun bersifat unofficial dan tidak terkait dengan pihak UAJY)
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  shared_preferences: ^2.0.15
+  intl: ^0.18.0
+  cached_network_image: ^3.2.3
+  flutter_svg: ^2.0.4
+  beautiful_soup_dart: ^0.3.0
+  cookie_jar: ^3.0.1
+  dio_cookie_manager: ^2.0.0
+  dio: ^4.0.6
+  fluttertoast: ^8.2.1
+  page_transition: ^2.0.9
+  persistent_bottom_nav_bar: ^5.0.2
+  flutter_barcode_scanner: ^2.0.0
+  firebase_core: ^2.9.0
+  cloud_firestore: ^4.5.0
+  url_launcher: ^6.1.10
+  http: ^0.13.4
+  carousel_slider: ^4.2.1
+  shimmer: ^3.0.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+      - assets/images/
+      - assets/icon/
+
+  fonts:
+      - family: Montserrat
+        fonts:
+        - asset: assets/fonts/montserrat/Montserrat-Regular.ttf
+        - asset: assets/fonts/montserrat/Montserrat-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/montserrat/Montserrat-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/montserrat/Montserrat-Bold.ttf
+          weight: 700
+      - family: Code39
+        fonts:
+        - asset: assets/fonts/code39/Code39Azalea.ttf
