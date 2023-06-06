@@ -24,5 +24,5 @@ Semua data yang dikirim ke server SIATMA, SIKMA, KRS, dan Bimbingan Akademik UAJ
   6. Enjoy!
 
 ## Minimum Requirements
-Android(N Stable) SDK 19 (Kitkat)
+Android(N Stable) SDK 23 or higher
 Supported IOS(Stable) but can't share on github
