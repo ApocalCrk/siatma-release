@@ -3,7 +3,7 @@ description: SIATMA UAJY merupakan aplikasi yang digunakan untuk memudahkan maha
 
 publish_to: 'github'
 
-version: 1.0.0-beta
+version: 1.0.1-beta
 
 environment:
   sdk: '>=2.19.0 <3.0.0'
