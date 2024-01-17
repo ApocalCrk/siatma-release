@@ -18,12 +18,14 @@ Semua data yang dikirim ke server SIATMA, SIKMA, KRS, dan Bimbingan Akademik UAJ
 
 ## Cara Penggunaan
 
-  1. Download aplikasi SIATMA UAJY di https://github.com/ApocalCrk/siatma-release/releases/tag/v.2.0.0
-  2. Install aplikasi (jika tidak bisa diinstall, uninstall terlebih dahulu siatma yang sudah ada)
-  3. Buka aplikasi
-  4. Masukkan NPM dan Password
-  5. Login
-  6. Enjoy!
+  1. Download aplikasi SIATMA UAJY di
+     - [release]https://github.com/ApocalCrk/siatma-release/releases/tag/v.2.0.0 
+     - [pre-release]https://github.com/ApocalCrk/siatma-release/releases/tag/v.2.0.1
+  3. Install aplikasi (jika tidak bisa diinstall, uninstall terlebih dahulu siatma yang sudah ada)
+  4. Buka aplikasi
+  5. Masukkan NPM dan Password
+  6. Login
+  7. Enjoy!
 
 ## Minimum Requirements
 Android(Stable) SDK 28 or higher (Android 7.0 or higher)
