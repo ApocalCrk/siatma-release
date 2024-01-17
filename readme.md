@@ -14,7 +14,7 @@ Semua data yang dikirim ke server SIATMA, SIKMA, KRS, dan Bimbingan Akademik UAJ
   * Nilai 
   * Informasi
   * Assignment (dummy)
-  * Notification (under development)
+  * Notification (Situs Kuliah, maybe add more for this feature)
 
 ## Cara Penggunaan
 
