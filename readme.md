@@ -1,5 +1,5 @@
 
-# ![](https://upload.wikimedia.org/wikipedia/id/thumb/d/df/UAJY_LOGOGRAM.svg/1200px-UAJY_LOGOGRAM.svg.png) SIATMA Unofficial (v2.3)
+# ![](https://upload.wikimedia.org/wikipedia/id/thumb/d/df/UAJY_LOGOGRAM.svg/1200px-UAJY_LOGOGRAM.svg.png) SIATMA Unofficial (v3.0)
 
 SIATMA UAJY merupakan aplikasi yang digunakan untuk memudahkan mahasiswa dalam melihat jadwal perkuliahan, nilai, dan informasi lainnya. Aplikasi ini juga dapat digunakan untuk melakukan absensi secara online. Dalam pembuatannya, aplikasi ini menggunakan bahasa pemrograman Dart dengan framework Flutter serta menggunakan API dari website SIATMA, SIKMA, KRS, dan juga Bimbingan Akademik UAJY. (Aplikasi yang dibangun bersifat unofficial)
 
@@ -13,13 +13,13 @@ Semua data yang dikirim ke server SIATMA, SIKMA, KRS, dan Bimbingan Akademik UAJ
   * Jadwal
   * Nilai 
   * Informasi
-  * Assignment (on dev)
+  * Assignment
   * Notification (Situs Kuliah, kalender akademik, & jadwal kuliah)
 
 ## Cara Penggunaan
 
   1. Download aplikasi SIATMA UAJY di
-     - [release] https://github.com/ApocalCrk/siatma-release/releases/tag/v.2.0.3
+     - [release] https://github.com/ApocalCrk/siatma-release/releases/tag/v.3.0.0
   3. Install aplikasi (jika tidak bisa diinstall, uninstall terlebih dahulu siatma yang sudah ada)
   4. Buka aplikasi
   5. Masukkan NPM dan Password
